@@ -1,0 +1,23 @@
+# Ignore Maven build directory
+/target/
+
+# Ignore class files
+*.class
+
+# IDE files
+*.iml
+.idea/
+.settings/
+.project
+.classpath
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+
+# JARs, WARs, EARs
+*.jar
+*.war
+*.ear
